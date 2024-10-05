@@ -1,15 +1,15 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: '站点检测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm797792292-0ff4d63c5329204020144543',
+    'm797792294-0d8d317dd2c4ad29b6dabc84',
+    'm797792295-5ec8f2a974f416a2fe63fc8b',
+    'm797792326-de058c92e7724c7212b1e895',
   ],
 
   // 日志天数
@@ -21,16 +21,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '',
+      url: ''
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: '',
+      url: ''
     },
     {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: '',
+      url: ''
     },
   ],
 };
